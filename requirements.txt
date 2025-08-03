@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+plotly
+fredapi
+filterpy
+python-dotenv
+statsmodels
+tqdm
+nltk
+tweepy
