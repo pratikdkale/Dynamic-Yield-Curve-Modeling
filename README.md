@@ -9,8 +9,6 @@ This project implements a robust fixed income analytics framework to model and f
 
 The DNS model is widely adopted by central banks and asset managers due to its balance between flexibility and interpretability. Kalman filtering allows us to update our estimates of the curve factors sequentially in time, handling noisy data efficiently and enabling short-term forecasting. We evaluate the signal extracted from β₁ for potential trading applications and simulate its effect on a directional yield curve strategy. The end-to-end pipeline is built in Python and is fully modular, making it suitable for research, backtesting, or integration into a live macro model.
 
-#
-
 ## Techniques Used
 - Dynamic Nelson-Siegel yield curve modeling
 - Kalman filtering (state-space modeling)
